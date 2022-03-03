@@ -41,6 +41,13 @@ Make sure you have python version 3.x installed, then do
 python3 -m venv venv
 ```
 
+## Open current folder in VScode
+
+```
+cd my/folder
+code .
+```
+
 ## Ignore the venv files in git
 
 It makes no sense to track your venv. To ignore it, make a file called
